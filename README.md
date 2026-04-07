@@ -16,20 +16,3 @@ Section3. 精度向上のためのテクニック
 Section4. Titanicの先へ  
 → さらに高度な課題に取り組むための指針を学びます。  
   
-Udemyコース: [みんなのKaggle講座](https://www.udemy.com/course/learning-kaggle/?referralCode=7F520FFCBF21BE6027A0)
-  
-### 自由研究室 AIRS-Lab（コミュニティ）
-「AI」をテーマに交流し、創造するWeb上のコミュニティです。  
-https://www.airs-lab.jp/  
-  
-### News! AIRS-Lab（メルマガ）
-AIの話題、講義動画、Udemyコース割引などのAIRS-Lab最新コンテンツをメールで配信します。  
-https://www.airs-lab.jp/newsletter  
-  
-### AI教室 AIRS-Lab（YouTubeチャンネル）
-毎週月曜日21時に、YouTubeでライブ講義を開催しています。  
-https://www.youtube.com/channel/UCT_HwlT8bgYrpKrEvw0jH7Q  
-  
-### Udemyコース
-オンライン動画学習プラットフォームUdemyで、AI関連のコースを複数展開しています。  
-https://www.airs-lab.jp/lectures  
